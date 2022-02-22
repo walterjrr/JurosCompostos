@@ -64,3 +64,15 @@ h2 {
 .form-register div {
     margin-bottom: 4.5rem;
 }
+
+.form-register .button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.form-register .button-container button {
+    width: 50rem;
+    height: 7rem;
+    font-size: 4.5rem;
+    border-radius: 15px;
+}
